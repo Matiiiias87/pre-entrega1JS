@@ -10,6 +10,7 @@ let sabores;
 // let resultado;
 // let envio;
 
+
 let continuar = true
 
 while (continuar) {
@@ -85,7 +86,3 @@ while (continuar) {
     }
 }
 
-// sabores = ["Frutilla", "Chocolate", "Dulce de leche", "Crema", "Sambayón", "Menta", "Banana split", "Limón", "Maracuyá", "Pistacho"]
-// for (const sabor of sabores) {
-//     prompt("Selecciona los sabores que desea")
-// }
